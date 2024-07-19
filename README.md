@@ -19,5 +19,6 @@ This repository is public. Feel free to fork this and change anything you want. 
 ##CONTACT
 Don't know how to code and want to use this on your workplace?
 DM me @:
+
 -GITHUB: https://github.com/djkier
 -GMAIL: djjustinekier@gmail.com
