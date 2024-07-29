@@ -10,14 +10,14 @@ This project is a support documentation website for troubleshooting clinic's com
 - Search functionality to find related topics
 - Easy navigation with links to related guides
 
-## Acknowledgments
+## _ACKNOWLEDGEMENT_
 - [GitHub Pages](https://pages.github.com/) for hosting the site.
 
 
-## FORKING
+## _FORKING_
 This repository is public. Feel free to fork this and change anything you want. DISCLAIMER: After forking, kindly change the instructions/ guide to suit it on your workplace.
 
-## CONTACT
+## _CONTACT_
 Don't know how to code and want to use this on your workplace?
 DM me @:
 - GITHUB: https://github.com/djkier
