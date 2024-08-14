@@ -1,0 +1,18 @@
+LHR Support documentation.
+brief documentation uses.
+
+use static website
+-Jekyll or Hugo?
+
+Potential Problems:
+
+Organization: As the number of guides grows, organizing and navigating the content can become challenging. Use a clear structure and categorization.
+
+Maintenance: Keeping the content up-to-date and ensuring links are not broken can be time-consuming.
+
+Searchability: Implementing a good search functionality within a static site might require some extra effort.
+{ Consider using a JavaScript library like Lunr.js or Fuse.js for client-side search functionality. These libraries can index your content and provide search results efficiently. }
+
+{Search Functionality
+JavaScript:
+Focus on learning how to manipulate arrays and objects.
